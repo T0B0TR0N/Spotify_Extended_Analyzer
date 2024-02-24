@@ -4,8 +4,8 @@ import os
 import webbrowser
 import glob
 
-#common.pdf_remove()
-#common.combine()
+common.pdf_remove()
+common.combine()
 
 common.top_songs_bar()
 common.top_artist_bar()
